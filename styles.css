@@ -165,7 +165,7 @@ header{
 }
 
 /* mobile */
-@media (max-width:1400px) {
+@media (max-width:1000px) {
 .header-content{
    color: black;
 }   
@@ -174,7 +174,7 @@ header{
 }
 }
 
-@media (max-width:1400px){
+@media (max-width:1000px){
 .navbar{
     height: 100px;
 }
